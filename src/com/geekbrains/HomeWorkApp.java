@@ -43,7 +43,7 @@ public class HomeWorkApp {
 
     }
     private static void compareNumbers () {
-        int a = 17;
+        int a = 18;
         int b = 15;
 
         if (a >= b) {
